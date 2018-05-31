@@ -1,5 +1,5 @@
 {
-    "name": "yiisoft/yii2-mywalker",
+    "name": "testyiisoft/yii2-mywalker",
     "description": "The walkerman app test integration for the Yii framework",
     "keywords": ["yii2", "Workerman", "gateway", "php", "test", "extension","websoket"],
     "type": "yii2-extension",

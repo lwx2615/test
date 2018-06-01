@@ -5,36 +5,36 @@
 各种功能，只接受yii处理好的数据格式。
 
 >yiiapplication/  **项目根目录**  
-    assets/ <br/>
-    runtime/  <br/>
-    views/ <br/>
-    config/ <br/>
-    models/ <br/>
-        User.php   <br/>    
-    modules/   <br/>
-        chat/  <br/>
-    web/
-    controlloers/
-    packages.json
-    widgets/
-    composer.json
-    vender/
-        autoload.php
-        phpdocumentor/
-        swiftmailer/
-        workerman/
-            gateway-worker/
-            workerman/
-        yiisoft/
-            yii2/
-            yii2-jui/
-            yii2-swiftmailer/
-        testyiislft/
-            yii2-mywalker/
-                Applications/
-                composer.json
-                start.php
-                LICENSE
-                README.md
+>>assets/ <br/>
+>>runtime/  <br/>
+>>views/ <br/>
+>>config/ <br/>
+>>models/ <br/>
+>>>User.php  <br/>
+>>modules/   <br/>
+>>>chat/  <br/>
+>>web/  <br/>
+>>controlloers/  <br/>
+>>packages.json <br/>
+>>widgets/   <br/>
+>>composer.json  <br/>
+>>vender/  <br/>
+>>>autoload.php  <br/>
+>>>phpdocumentor/  <br/>
+>>>swiftmailer/  <br/>
+>>>workerman/   <br/>
+>>>>gateway-worker/  <br/>
+>>>>workerman/  <br/> 
+>>>yiisoft/  <br/>
+>>>> yii2/  <br/>
+>>>>yii2-jui/  <br/>
+>>>>yii2-swiftmailer/  <br/>
+>>> testyiislft/  <br/>
+>>>>yii2-mywalker/  <br/>
+>>>>>Applications/  <br/>
+>>>>>composer.json  <br/>
+>>>>>start.php   <br/>
+>>>>>LICENSE  <br/>
+>>>>>README.md  <br/>
                 
         

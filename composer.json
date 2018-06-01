@@ -29,6 +29,8 @@
     ],
     "autoload": {
         "psr-4": { "yii\\mywalker\\": "src" }
+    }，
+  "archive": {
+        "exclude": ["modules","yii"]
     }
-  
 }

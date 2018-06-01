@@ -4,10 +4,10 @@
 页面部分及数据处理部分作为yii的APP，放在componets中。以后在扩展中丰富
 各种功能，只接受yii处理好的数据格式。
 
-yiiapplication/  **项目根目录**  
-    assets/
-    runtime/  
-    views/
+>yiiapplication/  **项目根目录**  
+>>assets/
+>>runtime/  
+>>views/
     config/
     models/
         User.php       

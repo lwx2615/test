@@ -5,14 +5,14 @@
 各种功能，只接受yii处理好的数据格式。
 
 >yiiapplication/  **项目根目录**  
->>assets/
->>runtime/  
->>views/
-    config/
-    models/
-        User.php       
-    modules/
-        chat/
+    assets/ <br/>
+    runtime/  <br/>
+    views/ <br/>
+    config/ <br/>
+    models/ <br/>
+        User.php   <br/>    
+    modules/   <br/>
+        chat/  <br/>
     web/
     controlloers/
     packages.json
